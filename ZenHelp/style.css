@@ -1,0 +1,137 @@
+
+* {
+ -webkit-text-size-adjust:none;
+}
+
+H1 {
+	text-indent: 0px; 
+	font-size: 1.4em; 
+	font-variant: normal; 
+	font-weight: bold; 
+	line-height: 130%;
+	font-family: Georgia, serif;
+}
+
+H2 {
+	text-indent: 0px; 
+	font-size: 1.1em; 
+	font-variant: normal; 
+	font-weight: bold; 
+	line-height: 130%;
+	font-family: Georgia, serif;
+}
+
+H3 {
+	font-size: 1em; 
+	font-variant: small-caps; 
+	font-weight: bold; 
+	line-height: 130%;
+	margin-top: 2.5em;
+}
+
+H4 {
+	font-weight: bold; 
+}
+
+H5 {
+	font-variant: normal; 
+	font-weight: normal;
+	font-style: italic; 
+}
+
+H6 {
+	text-decoration: underline;
+}
+
+
+body {
+	background-color:#3d3b3e;
+	color: #000;
+	margin: 0px 0px;
+	padding: auto;
+	font-size: 1em; 
+	font-family: Verdana, Geneva, sans-serif;
+	line-height: 145%;
+	<!--
+	background-attachment: scroll;
+	background-image: url(bg.png);
+	background-repeat: repeat-x;
+	-->
+}
+
+.centerBlock {
+	padding: 0px;
+	max-width: 661px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left; 
+}
+
+.header {
+	color: #fff;
+	background-color:#3d3b3e;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-indent:20px; 
+	font-size: 1.8em; 
+	font-variant: normal; 
+	font-weight: normal; 
+	line-height:140%;
+	font-family: Georgia, serif
+}
+
+.content {
+	color: #000;
+	background-color:#C4CED8;
+	padding: 20px;
+	text-indent:0px; 
+	font-size: .9em; 
+	font-variant: normal; 
+	font-weight: normal; 
+	line-height:130%;
+}
+
+.footer {
+	color: #fff;
+	background-color:#3d3b3e;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-indent:20px; 
+	font-size: .8em; 
+	font-variant: normal; 
+	font-weight: normal; 
+	font-family: "Open Sans", "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+	line-height:100%;}
+
+}
+
+
+
+
+
+a {
+	text-decoration: none;
+}
+a:link {
+	color: #DBB18B;
+	text-decoration: none;
+}
+a:visited {
+	color: #DBB18B;
+	text-decoration: none;
+}
+a:active {
+	color: #BC5A37;
+}
+a:hover  {
+	color: #BC5A37;
+	text-decoration: underline;
+}
+
+colorSamples====== {
+	background-color:#3d3b3e;
+	background-color:#C4CED8;
+	background-color:#DBB18B;
+	background-color:#F2E1D7;
+	background-color:#BC5A37;
+}
